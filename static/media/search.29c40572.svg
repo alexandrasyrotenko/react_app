@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="534" height="84" viewBox="0 0 534 84">
+  <defs>
+    <filter id="Active_Projects" x="53.5" y="23.5" width="153" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Messenger" x="353.5" y="23.5" width="117" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Tabs_Search" data-name="Tabs, Search" transform="translate(-161 -96)">
+    <g id="Active_Projects-2" data-name="Active Projects">
+      <g transform="matrix(1, 0, 0, 1, 161, 96)" filter="url(#Active_Projects)">
+        <text id="Active_Projects-3" data-name="Active Projects" transform="translate(56.5 51.5)" fill="#4b4b4b" font-size="24" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="0" y="0">Active Projects</tspan></text>
+      </g>
+      <g id="ICON">
+        <g id="ICON-2" data-name="ICON" transform="translate(156.146 116.146)">
+          <path id="time-3-icon" d="M24.854,4.854a20,20,0,1,0,20,20A20,20,0,0,0,24.854,4.854Zm0,35.631A15.631,15.631,0,1,1,40.485,24.854,15.623,15.623,0,0,1,24.854,40.485ZM37.167,25.8a.347.347,0,0,1,.287.342v.009a.346.346,0,0,1-.283.34c-3.6.674-12.133,2.073-13.069,2.073a2.427,2.427,0,0,1-2.427-2.427c0-.955,1.436-10.163,2.1-13.891a.314.314,0,0,1,.309-.259h0a.337.337,0,0,1,.333.285l1.838,11.641Z"/>
+        </g>
+        <path id="Color_Overlay" data-name="Color Overlay" d="M161,141a20,20,0,1,1,20,20A20,20,0,0,1,161,141Zm4.369,0A15.631,15.631,0,1,0,181,125.369,15.623,15.623,0,0,0,165.369,141Zm12.452,1.286c0-.955,1.436-10.163,2.1-13.892a.314.314,0,0,1,.309-.259h0a.336.336,0,0,1,.333.285l1.839,11.641,10.912,1.888a.347.347,0,0,1,.288.342v.009a.346.346,0,0,1-.283.34c-3.6.673-12.133,2.073-13.069,2.073A2.427,2.427,0,0,1,177.82,142.286Z" fill="#d3d3d3" opacity="0.95"/>
+      </g>
+      <g id="Projects">
+        <circle id="BG" cx="15.5" cy="15.5" r="15.5" transform="translate(359 113)" fill="#adadad"/>
+        <text id="_9" data-name="9" transform="translate(374.3 133.5)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="-4.313" y="0">9</tspan></text>
+      </g>
+    </g>
+    <g id="Messenger-2" data-name="Messenger">
+      <image id="BG-2" data-name="BG" width="272" height="84" transform="translate(423 96)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAABUCAYAAABKtGjbAAAABHNCSVQICAgIfAhkiAAAAxRJREFUeF7t10FqWlEYhuFz3UI30EoFhWzMrCBb6AbiArolIRcMlUxLMEmbaTw9p2BIxFLzjR/BQdR/8vDxcjPUWosXAQIEEoFBQBI2NwQIdIHXgKzHzXX7e4mFAAECJwQe2mff23t1MZ+Nh+/fBqQuZtPiicR4CBA4FnjZ78uv38/l5/2uN+Jzi8jd8RNInX/98jcgImJABAgcC0wmk7J7fOoR+dYCcnUyIPtWGgExHgIEjgWGYWhtKGWzvdu1gHwSEBshQOBsgR6Q/hQy3m5LC8ggIGfT+SEBAgJiAwQIxAICEtM5JEBAQGyAAIFYQEBiOocECAiIDRAgEAsISEznkAABAbEBAgRiAQGJ6RwSICAgNkCAQCwgIDGdQwIEBMQGCBCIBQQkpnNIgICA2AABArGAgMR0DgkQEBAbIEAgFhCQmM4hAQICYgMECMQCAhLTOSRAQEBsgACBWEBAYjqHBAgIiA0QIBALCEhM55AAAQGxAQIEYgEBiekcEiAgIDZAgEAsICAxnUMCBATEBggQiAUEJKZzSICAgNgAAQKxgIDEdA4JEBAQGyBAIBYQkJjOIQECAmIDBAjEAgIS0zkkQEBAbIAAgVhAQGI6hwQICIgNECAQCwhITOeQAAEBsQECBGIBAYnpHBIgICA2QIBALCAgMZ1DAgQExAYIEIgFBCSmc0iAgIDYAAECsYCAxHQOCRAQEBsgQCAWEJCYziEBAgJiAwQIxAICEtM5JEBAQGyAAIFYQEBiOocECAiIDRAgEAsISEznkAABAbEBAgRiAQGJ6RwSICAgNkCAQCwgIDGdQwIEBMQGCBCIBQQkpnNIgICA2AABArGAgMR0DgkQEBAbIEAgFhCQmM4hAQICYgMECMQCAhLTOSRAQEBsgACBWEBAYjqHBAgIiA0QIBALCEhM55AAAQGxAQIEYoGzAlJrLf3tRYAAgbcCPSD9Pd5uy8V8NvTvhkMs1uOmLmZT8bAZAgT+KdADcrP5cTIg1+1qyY4AAQL/EVi1J5DLd08gyAgQIPBRgdd/YT566PcECBD4A7x4CKST+va2AAAAAElFTkSuQmCC"/>
+      <g transform="matrix(1, 0, 0, 1, 161, 96)" filter="url(#Messenger)">
+        <text id="Messenger-3" data-name="Messenger" transform="translate(356.5 51.5)" fill="#4b4b4b" font-size="24" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="0" y="0">Messenger</tspan></text>
+      </g>
+      <g id="ICON-3" data-name="ICON">
+        <g id="ICON-4" data-name="ICON" transform="translate(457.868 113.733)">
+          <g id="Your_Icon" data-name="Your Icon">
+            <path id="Path_5" data-name="Path 5" d="M3.132,13.267,24.682,38.774l6.426-3.438,5.8,4.931,2.514-10.75,8.713-5.826ZM34.34,32.847l.707,3.633-2.894-2.46ZM37.788,29.1l-1.637,7L35.3,31.723,13.172,18.668Zm-4.039,2.9-8.66,4.642L8.632,17.17Zm10.225-7.557-5.646,3.775L11.892,17.02Z"/>
+          </g>
+        </g>
+        <path id="Color_Overlay-2" data-name="Color Overlay" d="M488.975,149.069l-6.426,3.438L461,127l45,10.424-8.713,5.826L494.773,154Zm-6.018,1.315,8.66-4.642L466.5,130.9Zm7.064-2.632,2.893,2.461-.707-3.633Zm3.146-2.3.853,4.376,1.636-7L471.04,132.4Zm3.029-3.5,5.646-3.775-32.081-7.431Z" fill="#d3d3d3" opacity="0.95"/>
+      </g>
+      <g id="Messenges">
+        <circle id="BG-3" data-name="BG" cx="15.5" cy="15.5" r="15.5" transform="translate(620 113)" fill="#ff503f"/>
+        <text id="_2" data-name="2" transform="translate(635.3 133.5)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="-0.025em"><tspan x="-4.313" y="0">2</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
